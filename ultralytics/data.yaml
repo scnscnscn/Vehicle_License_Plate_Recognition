@@ -1,0 +1,8 @@
+path: C:/Users/WLQVi/Desktop/python/Vehicle_License_Plate_Recognition/dataset  # dataset root dir
+train: C:/Users/WLQVi/Desktop/python/Vehicle_License_Plate_Recognition/dataset/train/images
+val: C:/Users/WLQVi/Desktop/python/Vehicle_License_Plate_Recognition/dataset/val/images
+test: C:/Users/WLQVi/Desktop/python/Vehicle_License_Plate_Recognition/dataset/test/images
+
+# Classes
+nc: 1  # number of classes
+names: ["green_plate"]  # class names
